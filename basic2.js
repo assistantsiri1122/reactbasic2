@@ -6,6 +6,6 @@ const obj1={
         'key':'value'
     },
     name:"sagar2",
-    //name:"sagar3"
+    name:"sagar3"
 };
 console.log('obj1',obj1);
